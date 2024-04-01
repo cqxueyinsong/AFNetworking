@@ -516,7 +516,6 @@
 		2995223B1BBF104D00859F49 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				96510EDC2BBB41460070CE64 /* PrivacyInfo.xcprivacy */,
 				2995223C1BBF104D00859F49 /* AFNetworking.h */,
 				2995223E1BBF104D00859F49 /* Info.plist */,
 				439E2811247E16DE004467ED /* AFNetworking.podspec */,
@@ -549,6 +548,7 @@
 				299522501BBF125A00859F49 /* AFURLResponseSerialization.m */,
 				299522511BBF125A00859F49 /* AFURLSessionManager.h */,
 				299522521BBF125A00859F49 /* AFURLSessionManager.m */,
+				96510EDC2BBB41460070CE64 /* PrivacyInfo.xcprivacy */,
 			);
 			path = AFNetworking;
 			sourceTree = "<group>";
